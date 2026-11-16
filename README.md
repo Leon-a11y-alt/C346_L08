@@ -38,4 +38,4 @@ QuizApp: <br>
 # Link to Demo Video with audible narration explaining styling changes with code reference
 
 Demo Video Link: <br>
-PASTE_VIDEO_LINK_HERE
+[https://youtu.be/tIMm71ufWPA](https://youtu.be/tIMm71ufWPA)
